@@ -1,3 +1,3 @@
 # Tutoring-App
-Tutoring  website
+Tutoring website
 https://subra123.github.io/Tutorial-App/
